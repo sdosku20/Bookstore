@@ -1,0 +1,8 @@
+NEW ORDER
+Name of customer:  Customer Two
+Date :2022-02-09
+Different types of books bought 2
+Title :OOP 2    Price :  100.0 Nr of copies : 100  Total Amount for this book   10000.0
+Title :Math    Price :  35.0 Nr of copies : 15  Total Amount for this book   525.0
+Total Amount to be paied 10525
+Bill created by user:   manager

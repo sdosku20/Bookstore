@@ -1,0 +1,7 @@
+NEW ORDER
+Name of customer:  TestOne
+Date :2022-02-10
+Different types of books bought 1
+Title :Test    Price :  220.0 Nr of copies : 0  Total Amount for this book   0.0
+Total Amount to be paied 0
+Bill created by user:   admin

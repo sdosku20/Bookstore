@@ -1,0 +1,7 @@
+NEW ORDER
+Name of customer:  Test2
+Date :2022-02-10
+Different types of books bought 1
+Title :Math    Price :  150.0 Nr of copies : 2  Total Amount for this book   300.0
+Total Amount to be paid 300
+Bill created by user:   admin

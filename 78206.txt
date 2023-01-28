@@ -1,0 +1,7 @@
+NEW ORDER
+Name of customer:  Danoci
+Date :2022-02-07
+Different types of books bought 1
+Title :Book2    Price :  200.0 Nr of copies : 0  Total Amount for this book   0.0
+Total Amount to be paied 0
+Bill created by user:   admin

@@ -1,0 +1,8 @@
+NEW ORDER
+Name of customer:  CustomerOne
+Date :2022-02-06
+Different types of books bought 2
+Title :tralala    Price :  21.0 Nr of copies : 40  Total Amount for this book   840.0
+Title :OOP    Price :  80.0 Nr of copies : 40  Total Amount for this book   3200.0
+Total Amount to be paied 4040
+Bill created by user:   admin
