@@ -1,7 +1,7 @@
-# Bookstore
-
 Bookstore
-An Java application which manages a book store that adds and/or sells books, create bills for the customers and show data on charts and print them, manages employees and can change account passwords.
+
+
+A Java application which manages a book store that adds and/or sells books, create bills for the customers and show data on charts and print them, manages employees and can change account passwords.
 
 In order to log in use these identification credentials:
 
