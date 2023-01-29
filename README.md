@@ -5,6 +5,6 @@ An Java application which manages a book store that adds and/or sells books, cre
 
 In order to log in use these identification credentials:
 
-As an Admin: Username: admin Password: admin
+As an Admin: Username: admin Password: admin \n
 As a Manager: Username: manager Password: manager
 As a Librarian: Username: librarian Password: librarian
